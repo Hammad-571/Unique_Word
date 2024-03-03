@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author hamma
+ *
+ */
+module word {
+}
